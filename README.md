@@ -41,6 +41,6 @@ This technology, including all documents, diagrams, specifications, and conceptu
 * All usage, reproduction, testing, reverse engineering, or integration of this technology into hardware or software is **strictly prohibited**.
 * This technology is available for sale. For formal purchase inquiries, offers, or licensing discussions, contact the architect directly.
 
-**Inquiries:** [serviceblend@gmail.com](mailto:serviceblend@gmail.com)
+# contakt: [ **Email📧**](contact.md)
 
 *Unauthorized use constitutes a direct violation of intellectual property rights. The architecture remains the property of the creator until a formal sale agreement is executed.*
