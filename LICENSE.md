@@ -1,35 +1,29 @@
-# LICENSE: Monolithic 3D-mMHD Architecture
+# M3D-mMHD Architecture Source-Available License
+**Copyright (c) 2026 Emanuel Schaaf. All rights reserved.
 
-**Copyright (c) 2026 Emanuel Schaaf. All rights reserved.**
+1. Purpose
+This repository is published for transparency and technical review only. You may access the documentation to understand the M3D-mMHD Architecture.
 
-## 1. Ownership Statement
-This technology, including all associated technical documents, diagrams, specifications, and conceptual materials (collectively, the "Technology"), is the exclusive intellectual property of the Architect and sole creator, **Emanuel Schaaf**.
+2. Grant of Rights
+Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation, to:
 
-## 2. Usage Restriction
-Until the Technology is formally sold under a legally binding purchase agreement, no individual, company, institution, or third party holds any rights, licenses, or permissions to use, copy, distribute, modify, or integrate this work in any form.
+View, read, and review the materials for personal, academic, or internal evaluation purposes only
+This permission is strictly limited to review.
 
-**All usage, reproduction, testing, evaluation, reverse engineering, or integration of this Technology is strictly prohibited.**
+3. Restrictions
+Without a separate, signed commercial license from Emanuel Schaaf, you may NOT:
 
-## 3. Prohibited Actions
-No party is permitted to:
-* Use the architecture in research or development.
-* Integrate it into hardware or software.
-* Analyze or benchmark it.
-* Derive any commercial or technical benefit from it.
+Use, copy, reproduce, or distribute any part of the documentation
+Modify, adapt, or create derivative works
+Implement, test, benchmark, reverse engineer, or integrate the architecture into hardware or software
+Use the materials for any commercial, research, or development purpose
+4. Ownership
+Emanuel Schaaf retains full and exclusive ownership of all intellectual property.
 
-Any unauthorized use constitutes a direct violation of the intellectual property rights of Emanuel Schaaf.
+5. Commercial Licensing
+A full transfer of rights or a commercial use license is available upon formal purchase offer. Contact: serviceblend@gmail.com
 
-## 4. Sale Availability & Transfer Commitment
-Emanuel Schaaf is willing to sell the full ownership and all rights to the Technology (including all documents, diagrams, and specifications) to an interested party that provides a formal purchase offer. 
-
-Full transfer of rights, ownership, and materials will occur immediately upon the execution of a formal sale agreement. Until such a sale is completed:
-* Emanuel Schaaf retains full, exclusive ownership.
-* Emanuel Schaaf retains all rights.
-* No usage of any kind is permitted by any third party.
-
-## 5. Legal Standing & Contact
-This document serves as formal legal notice. No implicit or explicit license is granted by the publication or distribution of these materials. No party may claim rights or usage without the express written consent of the Architect.
-
+No rights are granted except as expressly stated in Section 2. All other rights are reserved.
 All negotiations and inquiries regarding this Technology must be initiated via:
 
 **Email:** serviceblend@gmail.com
