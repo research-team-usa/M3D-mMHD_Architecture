@@ -1,5 +1,5 @@
 # M3D-mMHD Architecture Source-Available License
-**Copyright (c) 2026 Emanuel Schaaf. All rights reserved.
+** Copyright (c) 2026 Emanuel Schaaf. All rights reserved.**
 
 1. Purpose
 This repository is published for transparency and technical review only. You may access the documentation to understand the M3D-mMHD Architecture.
